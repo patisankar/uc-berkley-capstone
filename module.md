@@ -6,3 +6,7 @@
 |        4 | **Module 14: Decision Trees**                       | Create explainable retry rules and learn about entropy, Gini impurity, pruning, and overfitting.                    |
 |        5 | **Module 20: Capstone Initial Report and EDA**      | Analyze fraud imbalance, missing data, transaction patterns, synthetic retry fields, and potential leakage.         |
 
+
+Logistic Regression
+=====
+In the logistic regression example below, a decision boundary is a straight line that separates class A from class B. However, it is difficult in linear models to determine the exact boundary line separating the two classes, so points from class A have also come into the region of class B.
