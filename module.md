@@ -10,3 +10,7 @@
 Logistic Regression
 =====
 In the logistic regression example below, a decision boundary is a straight line that separates class A from class B. However, it is difficult in linear models to determine the exact boundary line separating the two classes, so points from class A have also come into the region of class B.
+
+Classification Evaluation
+==============
+<img width="765" height="349" alt="Screenshot 2026-08-26 at 8 07 45 AM" src="https://github.com/user-attachments/assets/135f3599-f80e-4259-9acb-cc3183d56051" />
