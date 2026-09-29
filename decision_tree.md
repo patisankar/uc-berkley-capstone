@@ -17,4 +17,6 @@ print(tree_rules)
 ```
 This prints the fitted decision tree as readable rules, for example:
 
+### cost_complexity_pruning_path
+determine how much a decision tree should be pruned to reduce overfitting.
 
